@@ -2,7 +2,7 @@ class Tool
 {
 	public static void main( String [] args)
 	{
-	int x = 9;
+	int x = 1;
 	switch (x)
 	{
 	case 0:
@@ -12,7 +12,7 @@ class Tool
 		System.out.println ("知北游");
 		break;
 	default:
-		System.out.println("cuowu");
+		System.out.println("错误，不可知内容");
 	}
 	}
 

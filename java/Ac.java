@@ -28,9 +28,9 @@
 					System.out.println (x+"冬季");
 					break;
 			default:
-			System.out.println("cuowu");
+			System.out.println("错误，输入内容非月份！");
 			}
-			System.out.println ("Hello Word!");
+			System.out.println ("Hello World!");
 		}
 	
 	
